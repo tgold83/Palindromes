@@ -1,0 +1,16 @@
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.deps.json
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.dll
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\ref\Program.dll
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.pdb
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.dll
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\ref\Program.dll
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.pdb
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.exe
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\tedjo\onedrive\desktop\epicodus\Palindromes\Palindrome\obj\Debug\net5.0\Program.genruntimeconfig.cache
